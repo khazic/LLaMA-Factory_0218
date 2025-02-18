@@ -678,5 +678,12 @@
       "prompt": "content"
     },
     "folder": "python"
+  },
+  "yelp": {
+    "file_name": "yelp.json",
+    "columns": {
+      "text": "text",
+      "label": "label"
+    }
   }
 }
